@@ -1,8 +1,8 @@
-**Happy Birthday to You**
+# **Happy Birthday to You**
 
 Write a Ruby program that asks a person for their name, and outputs the [Happy Birthday to You](https://en.wikipedia.org/wiki/Happy_Birthday_to_You) song for them.
 
-Join the [Happy Birthday to You](https://classroom.github.com/a/AD-uMN4W) GitHub Classroom assignment.
+Join the [Happy Birthday to You](https://classroom.github.com/a/jyHU2QDy) GitHub Classroom assignment.
 
 1. Using string interpolation (and no loops or conditional statements).
 
